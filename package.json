@@ -1,0 +1,20 @@
+{
+  "name": "practica-4-modulos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnyDeCoder/Practica-4-Modulos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnyDeCoder/Practica-4-Modulos/issues"
+  },
+  "homepage": "https://github.com/JohnyDeCoder/Practica-4-Modulos#readme"
+}
